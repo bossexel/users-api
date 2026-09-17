@@ -1,7 +1,5 @@
 [
-  { "LastName": "Bolambao", "FirstName": "Jithrix Exiel",   "Email": "jithrixexiel1@gmail.com",  "Password": "alawabalo" },
-  { "LastName": "shun shin",    "FirstName": "yi",  "Email": "yss@ml.com",   "Password": "yss67" },
-  { "LastName": "ember",     "FirstName": "spirit",   "Email": "emberspirit@dota.com",     "Password": "emberrr" } 
-  
+  { "LastName": "Bolambao", "FirstName": "Jithrix Exiel", "Email": "jithrixexiel1@gmail.com", "Password": "alawabalo" },
+  { "LastName": "shun shin", "FirstName": "yi", "Email": "yss@ml.com", "Password": "yss67" },
+  { "LastName": "ember", "FirstName": "spirit", "Email": "emberspirit@dota.com", "Password": "emberrr" }
 ]
-
